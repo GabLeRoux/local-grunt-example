@@ -1,0 +1,17 @@
+{
+  "name": "local-grunt-example",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Gabriel Le Breton <lebreton.gabriel@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/GabLeRoux/local-grunt-example",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
