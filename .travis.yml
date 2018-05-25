@@ -9,4 +9,4 @@ node_js:
 script:
   - npm i
   - npm run bower -- i
-  - npm run grunt -- --version
+  - npm run grunt
