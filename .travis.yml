@@ -5,3 +5,8 @@ node_js:
   - 8
   - 9
   - 10
+
+script:
+  npm i
+  npm run bower -- i
+  npm run grunt -- --version
