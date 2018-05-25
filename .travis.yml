@@ -7,6 +7,6 @@ node_js:
   - 10
 
 script:
-  npm i
-  npm run bower -- i
-  npm run grunt -- --version
+  - npm i
+  - npm run bower -- i
+  - npm run grunt -- --version
